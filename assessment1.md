@@ -45,58 +45,58 @@
 * Drop Database
 * Select Database - use <databasename>
   
-  #### Topic 2: Datatypes, DDL
-  * Datatypes - int, bigint, tinyint, varchar, date, timestamp
-  * Create table
-  * Alter table
-  * Drop Table
+#### Topic 2: Datatypes, DDL
+* Datatypes - int, bigint, tinyint, varchar, date, timestamp
+* Create table
+* Alter table
+* Drop Table
   
   
-  #### Topic 3: DML 
-  * Insert
-  * Update
-  * Delete
-  * Select
+#### Topic 3: DML 
+* Insert
+* Update
+* Delete
+* Select
   
-  #### Topic 4: Restricting Records
-  * where 
-  * AND , OR, NOT
-  * IS NULL , IS NOT NULL
-  * IN
-  * LIKE
-  * Comparision : = , > , >=, < , <= , !=
-  * BETWEEN ... AND
+#### Topic 4: Restricting Records
+* where 
+* AND , OR, NOT
+* IS NULL , IS NOT NULL
+* IN
+* LIKE
+* Comparision : = , > , >=, < , <= , !=
+* BETWEEN ... AND
   
-  #### Topic 5: Sorting
-  * Ascending / Descending
-  
-  #### Topic 6: Constraints
-  * Not Null
-  * Unique
-  * Primary Key
-  * Foreign Key
-  
-  #### Topic 7: Aggegate Functions
-  * count, min, max, sum, avg
-  * group by 
-  * having
-  
-  
-  #### Topic 8: Joins
-  * Reference: https://stackoverflow.com/questions/17946221/sql-join-and-different-types-of-joins
-  * (INNER) JOIN
-  * LEFT (OUTER) Join
-  * RIGHT (OUTER) Join
-  * FULL(OUTER) Join 
-  
-  #### Topic 9: SubQueries
-  
-  #### Topic 10: Database Design + Normalization
-  
-  ## Technology #3: Agile
+#### Topic 5: Sorting
+* Ascending / Descending
+ 
+#### Topic 6: Constraints
+* Not Null
+* Unique
+* Primary Key
+* Foreign Key
+ 
+#### Topic 7: Aggegate Functions
+* count, min, max, sum, avg
+* group by 
+* having
   
   
-  ## Technology #4: JIRA
+#### Topic 8: Joins
+* Reference: https://stackoverflow.com/questions/17946221/sql-join-and-different-types-of-joins
+* (INNER) JOIN
+* LEFT (OUTER) Join
+* RIGHT (OUTER) Join
+* FULL(OUTER) Join 
+  
+#### Topic 9: SubQueries
+  
+#### Topic 10: Database Design + Normalization
+  
+## Technology #3: Agile
+  
+
+## Technology #4: JIRA
   
   
   
