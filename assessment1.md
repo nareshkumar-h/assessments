@@ -76,7 +76,7 @@
 * Primary Key
 * Foreign Key
  
-#### Topic 7: Aggegate Functions
+#### Topic 7: Aggregate Functions
 * count, min, max, sum, avg
 * group by 
 * having
