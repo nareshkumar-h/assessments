@@ -38,7 +38,7 @@
 #### Topic 3: Resolving Conflicts and Merge
 * Resolve Conflicts
 
-## MySQL
+## Technology #3: MySQL
 #### Topic 1: Database
 * Create Database
 * Create User
@@ -93,10 +93,10 @@
   
 #### Topic 10: Database Design + Normalization
   
-## Technology #3: Agile
+## Technology #4: Agile
   
 
-## Technology #4: JIRA
+## Technology #5: JIRA
   
   
   
