@@ -94,9 +94,60 @@
 #### Topic 10: Database Design + Normalization
   
 ## Technology #4: Agile
+
+#### Topic #1: Agile/Scrum
+* SDLC - Waterfall Model
+* Agile - Iterative Model
+* Scrum
+* Product Backlog
+* Four Ceremonies (https://www.atlassian.com/agile/ceremonies)
+  * Sprint planning
+  * Daily Standup
+  * Sprint demo
+  * Sprint retrospective
+* Three Roles (https://www.atlassian.com/agile/scrum):
+  * Product Owner
+  * Scrum Master
+  * Scrum Team
   
+* Workflows ( https://www.atlassian.com/agile/workflow)
+   * Todo
+   * In Progress
+   * Code Review
+   * Done
 
 ## Technology #5: JIRA
+
+#### Topic #1: Projects
+* Create a Project
+
+#### Topic #2: Creating Issues
+* Create Issues
+   * Issue Types
+     * Epic
+     * User Story
+     * Task
+     * Bug
+  * Priorities - High, Medium, Low
+  * Assignee
+  * Reporter
+  * Vote
+  * Watch
+
+#### Topic #3: Product Owner
+* Create a Product Backlog
+
+#### Topic #4: Scrum Master/Team
+* Create Sprint
+* Sprint Backlog
+* Assign Issue
+* Workflow -> Todo , In Progress, Done
+* Product Backlog
+* Scrum Backlog
+* Issue Creation
+* Assigning Issue
+* Rep
+* Issue Creation
   
   
   
