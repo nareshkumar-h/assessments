@@ -134,20 +134,17 @@
   * Vote
   * Watch
 
-#### Topic #3: Product Owner
+#### Topic #3: Product Owner/Scrum Master
 * Create a Product Backlog
+* Create a Scrum Backlog
+* Create Sprint
+* Identify tasks for the Sprint
 
 #### Topic #4: Scrum Master/Team
-* Create Sprint
-* Sprint Backlog
-* Assign Issue
+* Start Sprint
+* Assigning Issues to Developer
 * Workflow -> Todo , In Progress, Done
-* Product Backlog
-* Scrum Backlog
-* Issue Creation
-* Assigning Issue
-* Rep
-* Issue Creation
+* Close Sprint
   
   
   
